@@ -10,4 +10,4 @@ Interested in collaborating on open source projects.
 - Zellij
 
 ## 🔭 Working on
-- Automating my workstation config and tools with Ansible
+- Automating my [workstation config and tools](https://github.com/KongrooParadox/ansible-linux-pc) with Ansible
